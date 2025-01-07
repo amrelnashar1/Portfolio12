@@ -246,6 +246,8 @@ body.dark #moon{
 }
 .btn i{
     margin-right: 10px;
+    margin-left: 2px;
+
 }
 i{
     font-size: 16px;
